@@ -30,10 +30,10 @@ Monolithic architecture нь бусад application-аас хараат бус, 
 
 ### Monolithic architecture-т хамгийн түгээмэл хэрэглэгддэг стекүүд:
 
-- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" heigth="20"> Java
-- <img src="https://avatars.githubusercontent.com/u/4223" heigth="20"> Ruby on Rails
-- <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" heigth="20"> Django
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" heigth="20"> .NET
+- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20"> Java
+- <img src="https://avatars.githubusercontent.com/u/4223" height="20"> Ruby on Rails
+- <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" height="20"> Django
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" height="20"> .NET
 
 ## Microservices architecture гэж юу вэ?
 
