@@ -30,10 +30,10 @@ Monolithic architecture нь бусад application-аас хараат бус, 
 
 ### Monolithic architecture-т хамгийн түгээмэл хэрэглэгддэг стекүүд:
 
-- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20"> Java
-- <img src="https://avatars.githubusercontent.com/u/4223" height="20"> Ruby on Rails
-- <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" height="20"> Django
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" height="20"> .NET
+- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="30"> Java
+- <img src="https://avatars.githubusercontent.com/u/4223" height="30"> Ruby on Rails
+- <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" height="30"> Django
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" height="30"> .NET
 
 ## Microservices architecture гэж юу вэ?
 
@@ -63,6 +63,6 @@ Monolithic architecture нь бусад application-аас хараат бус, 
 
 ### Microservices architecture-т хамгийн түгээмэл хэрэглэгддэг стекүүд:
 
-- Spring Boot
-- Node.js
-- Kubernetes
+- <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg" height="30"> Spring Boot
+- <img src="https://nglogic.com/wp-content/uploads/2022/11/nodejs-1-logo.png" height="30"> Node.js
+- <img src="https://miro.medium.com/v2/resize:fit:600/0*6fwIAzIFfrGStZIS.png" height="30"> Kubernetes
