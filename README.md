@@ -30,7 +30,7 @@ Monolithic architecture нь бусад application-аас хараат бус, 
 
 ### Monolithic architecture-т хамгийн түгээмэл хэрэглэгддэг стекүүд:
 
-- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="30"> Java
+- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="10"> Java
 - Ruby on Rails
 - Django
 - .NET
