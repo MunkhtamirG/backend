@@ -60,3 +60,13 @@ Spring Boot нь Java хэл дээр microservice бий болгох framework
   Spring Boot нь Spring ecosystem-ийн томоохон нэг хэсэг бөгөөд Spring Cloud-тай хослуулснаар service илрүүлэх, ачааллыг тэнцвэржүүлэх, configuration management гэх мэт microservice-г бий болгох нэмэлт боломжуудыг олгодог.
 - ### Monitoring and management:
   Spring Boot Actuator нь health checks, metrics, logging гэх мэт програмуудыг хянах, удирдахад зориулагдсан функцээр хангадаг.
+
+# Maven project
+
+Maven project нь Java-based project-үүдэд зориулсан build, dependency management tool болох Apache Maven ашиглан manage, built хийх software project юм. Maven нь managing dependencies, compiling source code, applications-уудыг executable format болгон package-лах, generating documentation зэрэг Java application-уудыг бүтээх боломжыг олгодог.
+
+Maven project-д project structure-г урьдчилан тодорхойлсон directory structure-н дагуу зохион байгуулж, build хийх процессыг "pom.xml" (Project Object Model) нэртэй XML файлыг ашиглан тохируулдаг. "pom.xml" файл нь project-н нэр, version, dependencies, build settings, plugins зэрэг project-ийн мэдээллийг тодорхойлдог.
+
+Maven project-үүд нь convention-over-configuration-г баримталдаг бөгөөд энэ нь Maven-ын directory structure, naming conventions-г баримталснаар хөгжүүлэгчид бүх зүйлийг гараар тохируулах шаардлагагүйгээр project-ийг зохион байгуулах, менежментийг бий болгоход зориулсан Maven-ийн суулгасан шилдэг туршлагыг ашиглах боломжтой гэсэн үг юм. Maven нь кодын чанарыг шалгах, автоматжуулсан туршилт, deployment гэх мэт нэмэлт функцуудыг хангадаг өргөн хүрээний plugins-уудыг дэмждэг.
+
+Maven нь Java development-д өргөн хэрэглэгддэг бөгөөд Eclipse, IntelliJ IDEA зэрэг Java IDE нэгдсэн. Энэ нь build process-г хялбарчилж, хөгжүүлэгчдэд dependencies-г үр дүнтэй удирдахад тусалдаг бөгөөд энэ нь Java програмыг цогцоор нь бүтээх хүчирхэг хэрэгсэл болгодог.
